@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b900f1d53efac7143a55b410e1f1652a, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  gameVersion: 1.0.0
+  targetFrameRate: 60
+  vSyncEnabled: 0
+  enableNotifications: 1
+  dailyNotificationTitle: Come back and play!
+  dailyNotificationText: Your adventure awaits!
+  dailyNotificationHour: 19
